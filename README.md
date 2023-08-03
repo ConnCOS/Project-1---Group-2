@@ -3,6 +3,19 @@
 
 The scope of the project involved using data from bicycle and pedestrian counts in 20 counties across Colorado from 2009 to 2015. Python, Jupyter Notebook, and GitHub were utilized for data analysis. The primary objectives were to determine bicycle path and crossing usage rates in the state and analyze peak months and days of the week for bicycle traffic. Additionally, the team sought to overlay bicycle shop locations to identify correlations between retail locations and traffic counts, as well as opportunities for new retail locations. Some limitations were faced due to non-uniform data availability and limited initial data from certain counties. The analysis focused on county-level data rather than city-level data due to the data's availability.
 
+## Questioning the data: Steps to evaluating data:
+1. Decompose the ask
+2. Identify data sources – state of Colorado
+3. Define strategy and metrics
+4. Build a data retrieval plan
+5. Retrieve the data
+6. Assemble and clean the data
+7. Analyze for trends
+8. Acknowledge limitations
+10. Make the call
+
+
+
 ## Questions to seek from the data:
 
 **The questions addressed by Group 2 during the analysis included:**
@@ -31,7 +44,8 @@ The conclusions drawn from the analysis are as follows:
 
 7. The database also enabled comparisons of trails and paths within each county, revealing higher ridership in affluent areas in Denver County.
 
-
+**Primary data source:**
+[Colorado Department of Transportation](https://www.codot.gov/programs/bikeped/bicycle-pedestrian-counts)
 
 
 
